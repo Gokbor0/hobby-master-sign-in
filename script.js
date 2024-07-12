@@ -1,12 +1,12 @@
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-  measurementId: "YOUR_MEASUREMENT_ID"
+  apiKey: "AIzaSyA-B_IJZp_TR8gv_FNmpRY2O6Gli4h-seY",
+  authDomain: "hobby-master-sign-in.firebaseapp.com",
+  projectId: "hobby-master-sign-in",
+  storageBucket: "hobby-master-sign-in.appspot.com",
+  messagingSenderId: "162224719188",
+  appId: "1:162224719188:web:6826edca825f95dce9f4c1",
+  measurementId: "G-ZHCB6LGXL0"
 };
 
 // Initialize Firebase
